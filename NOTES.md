@@ -14,8 +14,6 @@ I have also separated the results based on where they came from, so it is clear 
 - **Unit tests:** Tests that check whether individual parts of the scheduler work as expected.
 - **Estimates and judgements:** I have pointed these out wherever I have used them.
 
-All amounts are in US dollars.
-
 ## 1. Results
 My main goal when building this scheduler was to improve profit without spending too much on compute. I calculated profit using this formula:
 
